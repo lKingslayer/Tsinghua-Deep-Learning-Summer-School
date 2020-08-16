@@ -1,0 +1,6 @@
+In this experiment, I use the learning result from Problem1. And the answers to the two questions are:
+A1:
+"Washington, D. C." which is the capital of USA is in the 2nd place of the smallest energy function scores.
+
+A2:
+The most likely relaiton between USA and North America is "territory claimed by".
