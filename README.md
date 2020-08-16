@@ -1,1 +1,1 @@
-# Tsinghua-Deep-Learning-Summer-School
+# 2020-Tsinghua-Deep-Learning-Summer-School
